@@ -1,0 +1,1 @@
+connect to redis local and implement a Redis as a document database, Create a secondary index, Add JSON documents and Search and query your data. Json document contains bicycle information like brand,condition,description,model and price and give the expected output

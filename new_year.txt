@@ -1,0 +1,46 @@
+I'm writing a email to my Mutual Fund Team, check for grammatical mistakes and rephrase the sentence if required.
+Hi Team,
+Wish you a very happy new year.
+We've already receive a mail from our CTO about learning objective and goals for this year.
+I would like to add few more points specific to our domain i.e Mutual Fund.
+1. Build by learning - Building something that you're aware of becomes piece of cake. It means you should be having business knowledge of what you're doing like how this will impact customers, how industry is doing and what feature should be added if you think as a customer.
+2. Mutual Fund is pretty big in itself, so I'll be dividing the responsibilities among individuals like Switch to Khushi, SWP to Shaurya, Folio Sync to Naveen and there are more services which will be shared among all of you like Orders, Account etc. will be assigning this in the upcoming weeks.
+3. Avoid taking surprise leave(excluding sick leave) - Since we're following Two weeks/Quarterly sprint and tasks is assigned to individuals so it mandatory to complete the tasks within time as this will be directly linked to your performance report. However if you want to take planned leave  and it is greater than 1 day you've to inform at least 20 days prior so that we can re-assign the tasks accordingly. For leave upto 1 day informing 1 week prior will work.
+
+Here are some tips that you can follow for writing good code and increase learning skills.
+1. Read tech blogs and subscribe for mail like medium, devto, towardsdatascience etc..
+2. Learn more about the product you're working on, checkout how competitors are doing(only tech side)
+3.  Ask your doubts to your peers.
+4. Build personal projects on skills that you've learned.
+5. We can have internal tech discussion(within the team) once or twice a week for 30-40 mins post office hours, where each member will share their learning.
+These are few points which I think we should be following this year.
+
+Once again, Happy New year. Let's have a great year ahead
+
+
+
+Hi Team,
+
+Wishing you all a very happy new year!
+
+I believe you've received a email from our CTO outlining the learning objectives and goals for the upcoming year. I'd like to contribute some additional points specific to our domain, i.e. Mutual Funds.
+
+Build by Learning:
+Crafting something within your expertise should be a breeze. This implies possessing a solid understanding of the business aspects, considering the impact on customers, industry trends, and thinking from a customer's perspective when determining which features to add.
+
+Responsibility Distribution:
+Given the vast scope of Mutual Funds, I will be assigning specific responsibilities to individuals. For instance, Khushi will handle Switch, Shaurya will oversee SWP, Naveen will manage Folio Sync, and other services such as Orders, Account, etc.. will be distributed among the team. Detailed assignments will be shared in the upcoming weeks.
+
+Leave Policy:
+It's essential to avoid unexpected leaves (excluding sick leave). As we follow a Two Weeks/Quarterly sprint and tasks are assigned individually, timely completion is crucial for your performance evaluation. For planned leaves exceeding one day, please provide a minimum of 20 days' notice for task reassignment. For leaves up to one day, a one-week prior notice is acceptable.
+
+Here are some tips to enhance your coding skills and learning:
+
+Stay updated with tech blogs and subscribe to platforms like Medium, Dev.to, Towards Data Science, etc.
+Dive deeper into the product you're working on and explore how competitors are approaching it (from a technical perspective).
+Don't hesitate to seek clarification from your peers.
+Work on personal projects to apply the skills you've learned.
+Let's schedule internal tech discussions within the team once or twice a week for 30-40 minutes post-office hours. Each member can share their recent learnings.
+These are the guidelines I believe will benefit us in the coming year.
+
+Once again, Happy New Year! Let's make it a fantastic year ahead.
